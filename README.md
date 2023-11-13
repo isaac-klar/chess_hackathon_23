@@ -1,3 +1,7 @@
+Video submission:
+https://drive.google.com/file/d/1LEMDGJzaxHfkvf0rWXjnL_PLYIVLxSQD/view?usp=sharing
+
+
 # The Brandeis Quant Club ML/AI Competition
 
 **Project Description**: In this Python-driven competition, you will be building a model to play chess. Specifically, given any arbitrary position, what is the next best move?
