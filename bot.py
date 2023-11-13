@@ -41,6 +41,7 @@ def game_manager() -> Iterator[None]:
         print(f"Total game time = {total:.3f} seconds")
     print("===== GAME ENDED =====")
 
+#
 
 class Bot:
     def __init__(self, fen=None):
