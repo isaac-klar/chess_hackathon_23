@@ -215,7 +215,7 @@ if __name__ == "__main__":
         playing = True
 
         while playing:
-            if chess_bot.color == chess.WHITE:
+            if chess_bot.color == chess.board.turn: # Checking whose turn it is
                 chess_bot.board.push_san(chess_bot.next_move())
             else:
                 chess_bot.board.push_san(test_bot.get_move(chess_bot.board))
